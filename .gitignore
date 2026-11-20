@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_dyn_*
+*.o
+*.ppm
+.DS_Store
